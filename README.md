@@ -4,6 +4,9 @@ Name: Jasmine Jasani
 
 Course: Bootcamp: UTOR-VIRT-FSF-FT-03-2024-U-LOLC-M-F
 
+Link to deployed page: file:///Users/jasminejasani/Desktop/fullstack-bootcamp/working/01-HTML-Git-CSS/02-Challenge/Develop/index-homework.html
+
+
 This submission contains an index.html and a css.style document. 
 
 Key takeaways to implement for next project:
